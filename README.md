@@ -25,13 +25,13 @@ git clone https://github.com/your-username/webpack-template-repo.git
 
 ```bash
 cd webpack-template-repo
-npm install
+npm install -D webpack webpack-cli
 ```
 
 3. #### Run the Development Server:
 
 ```bash
-npm start
+npm run dev
 ```
 4. #### Access the Project: Open your web browser and navigate to
 
